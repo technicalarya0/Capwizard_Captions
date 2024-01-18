@@ -1,0 +1,31 @@
+{
+  "name": "e-comm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeputkarsh007/e-comm.git"
+  },
+  "author": "Utkarsh Deep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deeputkarsh007/e-comm/issues"
+  },
+  "homepage": "https://github.com/deeputkarsh007/e-comm#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=14 <15"
+  }
+}

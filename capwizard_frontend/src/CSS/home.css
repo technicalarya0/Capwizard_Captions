@@ -1,0 +1,28 @@
+.back-quote {
+  display: flex;
+  position: relative;
+  left: 100%;
+  font-size: 40px;
+  line-height: 1;
+  opacity: 0.2;
+}
+
+.front-quote {
+  font-size: 40px;
+  line-height: 1;
+  opacity: 0.2;
+}
+.quote-content {
+  padding-left: 2.5rem;
+}
+
+.post-about {
+  padding-left: 1rem;
+  font-weight: 600;
+  font-style: italic;
+  padding-bottom: 1rem;
+}
+
+.page {
+  min-height: 80vh;
+}
