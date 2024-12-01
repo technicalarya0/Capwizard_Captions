@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deeputkarsh007/e-comm.git"
+    "url": "git+https://github.com/technicalarya0"
   },
   "author": "Utkarsh Deep",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deeputkarsh007/e-comm/issues"
+    "url": "https://github.com/technicalarya0"
   },
-  "homepage": "https://github.com/deeputkarsh007/e-comm#readme",
+  "homepage": "https://github.com/technicalarya0",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
